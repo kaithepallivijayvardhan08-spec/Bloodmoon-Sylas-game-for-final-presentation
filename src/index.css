@@ -1,0 +1,128 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Silkscreen', 'Press Start 2P', monospace, sans-serif;
+    background-color: #05070c;
+    color: #e2e8f0;
+    overflow-x: hidden;
+  }
+}
+
+/* Authentic Pixel Art Rendering */
+.pixel-art {
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
+/* Retro Pixel Font Utilities */
+.font-pixel {
+  font-family: 'Press Start 2P', monospace;
+  letter-spacing: -0.5px;
+}
+
+.font-retro {
+  font-family: 'Silkscreen', monospace;
+}
+
+.font-term {
+  font-family: 'VT323', monospace;
+}
+
+/* Classic 16-bit RPG Stepped Pixel Borders */
+.pixel-border-gold {
+  box-shadow:
+    0 -3px 0 0 #f59e0b,
+    0 3px 0 0 #78350f,
+    -3px 0 0 0 #f59e0b,
+    3px 0 0 0 #78350f,
+    0 0 0 3px #1e1b18;
+  border-radius: 0px !important;
+}
+
+.pixel-border-dark {
+  box-shadow:
+    0 -3px 0 0 #475569,
+    0 3px 0 0 #0f172a,
+    -3px 0 0 0 #334155,
+    3px 0 0 0 #0f172a,
+    0 0 0 3px #020617;
+  border-radius: 0px !important;
+}
+
+.pixel-border-crimson {
+  box-shadow:
+    0 -3px 0 0 #f43f5e,
+    0 3px 0 0 #881337,
+    -3px 0 0 0 #e11d48,
+    3px 0 0 0 #881337,
+    0 0 0 3px #0f0508;
+  border-radius: 0px !important;
+}
+
+.pixel-border-cyan {
+  box-shadow:
+    0 -3px 0 0 #38bdf8,
+    0 3px 0 0 #0c4a6e,
+    -3px 0 0 0 #0284c7,
+    3px 0 0 0 #0c4a6e,
+    0 0 0 3px #031525;
+  border-radius: 0px !important;
+}
+
+/* Pixel Button with crisp retro click feel */
+.pixel-btn {
+  border-radius: 0px !important;
+  box-shadow:
+    inset -2px -2px 0 0 #000000,
+    inset 2px 2px 0 0 rgba(255, 255, 255, 0.3),
+    0 0 0 2px #0f172a;
+  transition: transform 0.05s ease, filter 0.05s ease;
+}
+
+.pixel-btn:hover {
+  filter: brightness(1.15);
+}
+
+.pixel-btn:active {
+  transform: translate(2px, 2px);
+  box-shadow:
+    inset 2px 2px 0 0 #000000,
+    0 0 0 2px #0f172a;
+}
+
+/* CRT Scanlines Overlay (Retro Arcade filter) */
+.crt-scanlines {
+  background: linear-gradient(
+    rgba(18, 16, 16, 0) 50%,
+    rgba(0, 0, 0, 0.38) 50%
+  );
+  background-size: 100% 4px;
+  pointer-events: none;
+  box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.75);
+}
+
+/* Subtle CRT phosphor glow */
+.crt-glow {
+  text-shadow: 0 0 4px currentColor;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #020617;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #f59e0b;
+}
