@@ -522,7 +522,8 @@ I prefer being honest about what a project can currently do and what still needs
 - 📑 [Mini Project Report (PDF)](bloodmoon%20sylas%20mean%20stack%20game%20final%20report.pdf)
 
 ---
-## 📊 14 PROJECT PRESENTATION
+
+## 📊 14. PROJECT PRESENTATION
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/kaithepallivijayvardhan08-spec/Bloodmoon-Sylas-game-for-final-presentation/main/docs/bloodmoon%20sylas%20%20a%20broswer%20based%203d%20action%20game.pptx">
@@ -533,8 +534,10 @@ I prefer being honest about what a project can currently do and what still needs
 <p align="center">
   **Bloodmoon Sylas – A Browser Based 3D Action Game**
 </p>
+
 ---
-## 📊 15 FINALY  
+
+## 🌙 15. FINAL THOUGHTS
 
 Bloodmoon: Sylas is more than a semester project for me. It represents the process of taking an idea, exploring unfamiliar technologies and gradually turning it into something that works.
 
@@ -554,4 +557,5 @@ That's the approach I try to bring to my work.
   <br/>
   <sub>Bloodmoon: Sylas · A learning journey by Kaithepalli Vijay Vardhan</sub>
 </p>
+
 ---
