@@ -11,9 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kaithepallivijayvardhan08-spec/Bloodmoon-Sylas-game-for-final-presentation">
-    <img src="https://img.shields.io/badge/PROJECT-BLOODMOON-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/PROJECT-BLOODMOON-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/STATUS-LEARNING%20PROJECT-333333?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PLATFORM-WEB-333333?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </p>
@@ -344,110 +342,137 @@ Bloodmoon-Sylas/
 
 ---
 
-## 📸 10. MORE FROM THE GAME
+## 📸 10. COMPLETE GAMEPLAY GALLERY
 
-<details>
-<summary><strong>Explore the full gameplay screenshot collection (24 images)</strong></summary>
+**All 24 project screenshots are displayed below.**
+
+### 🏰 Game Interface & Campaign
 
 <table>
 <tr>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/01_main_game_screen.png" width="100%"/>
-<p align="center">Main Game Screen</p>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/01_main_game_screen.png" width="100%" alt="01 Main Game Screen"/>
+<strong>01. Main Game Screen</strong>
 </td>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/02_adventure_hub.png" width="100%"/>
-<p align="center">Adventure Hub</p>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/02_adventure_hub.png" width="100%" alt="02 Adventure Hub"/>
+<strong>02. Adventure Hub</strong>
 </td>
-</tr>
-<tr>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/04_campaign_selection.png" width="100%"/>
-<p align="center">Campaign Selection</p>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/03_hero_selection.png" width="100%" alt="03 Hero Selection"/>
+<strong>03. Hero Selection</strong>
 </td>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/07_blood_moon_environment.png" width="100%"/>
-<p align="center">Blood Moon Environment</p>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/04_campaign_selection.png" width="100%" alt="04 Campaign Selection"/>
+<strong>04. Campaign Selection</strong>
 </td>
 </tr>
 <tr>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/08_player_third_person.png" width="100%"/>
-<p align="center">Third-Person View</p>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/05_game_start_screen.png" width="100%" alt="05 Game Start Screen"/>
+<strong>05. Game Start Screen</strong>
 </td>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/09_player_movement.png" width="100%"/>
-<p align="center">Player Movement</p>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/06_fortress_environment.png" width="100%" alt="06 Fortress Environment"/>
+<strong>06. Fortress Environment</strong>
 </td>
-</tr>
-<tr>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/10_camera_view.png" width="100%"/>
-<p align="center">Camera View</p>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/07_blood_moon_environment.png" width="100%" alt="07 Blood Moon Environment"/>
+<strong>07. Blood Moon Environment</strong>
 </td>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/11_player_jump.png" width="100%"/>
-<p align="center">Player Jump</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/12_enemy_visible.png" width="100%"/>
-<p align="center">Enemy Encounter</p>
-</td>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/13_player_enemy_interaction.png" width="100%"/>
-<p align="center">Player and Enemy Interaction</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/14_player_attack.png" width="100%"/>
-<p align="center">Player Attack</p>
-</td>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/15_enemy_attack.png" width="100%"/>
-<p align="center">Enemy Attack</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/18_quest_objective.png" width="100%"/>
-<p align="center">Quest Objective</p>
-</td>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/19_game_hud.png" width="100%"/>
-<p align="center">Game HUD</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/20_radar_minimap.png" width="100%"/>
-<p align="center">Radar Minimap</p>
-</td>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/21_game_progress.png" width="100%"/>
-<p align="center">Game Progress</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/22_enemy_defeat_result.png" width="100%"/>
-<p align="center">Enemy Defeat</p>
-</td>
-<td width="50%">
-<img src="docs/Bloodmoon-report-screenshots/23_complete_gameplay.png" width="100%"/>
-<p align="center">Complete Gameplay</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="docs/Bloodmoon-report-screenshots/24_final_gameplay.png" width="75%"/>
-<p align="center">Final Gameplay</p>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/08_player_third_person.png" width="100%" alt="08 Player Third Person"/>
+<strong>08. Third-Person Player</strong>
 </td>
 </tr>
 </table>
-</details>
+
+### 🎮 Player Movement & World Interaction
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/09_player_movement.png" width="100%" alt="09 Player Movement"/>
+<strong>09. Player Movement</strong>
+</td>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/10_camera_view.png" width="100%" alt="10 Camera View"/>
+<strong>10. Camera View</strong>
+</td>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/11_player_jump.png" width="100%" alt="11 Player Jump"/>
+<strong>11. Player Jump</strong>
+</td>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/12_enemy_visible.png" width="100%" alt="12 Enemy Visible"/>
+<strong>12. Enemy Encounter</strong>
+</td>
+</tr>
+</table>
+
+### ⚔️ Combat & Abilities
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/13_player_enemy_interaction.png" width="100%" alt="13 Player Enemy Interaction"/>
+<strong>13. Player and Enemy</strong>
+</td>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/14_player_attack.png" width="100%" alt="14 Player Attack"/>
+<strong>14. Player Attack</strong>
+</td>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/15_enemy_attack.png" width="100%" alt="15 Enemy Attack"/>
+<strong>15. Enemy Attack</strong>
+</td>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/16_combat_scene.png" width="100%" alt="16 Combat Scene"/>
+<strong>16. Combat Scene</strong>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/17_magic_ability.png" width="100%" alt="17 Magic Ability"/>
+<strong>17. Magic Ability</strong>
+</td>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/18_quest_objective.png" width="100%" alt="18 Quest Objective"/>
+<strong>18. Quest Objective</strong>
+</td>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/19_game_hud.png" width="100%" alt="19 Game HUD"/>
+<strong>19. Game HUD</strong>
+</td>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/20_radar_minimap.png" width="100%" alt="20 Radar Minimap"/>
+<strong>20. Radar Minimap</strong>
+</td>
+</tr>
+</table>
+
+### 🩸 Gameplay Progress & Final Results
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/21_game_progress.png" width="100%" alt="21 Game Progress"/>
+<strong>21. Game Progress</strong>
+</td>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/22_enemy_defeat_result.png" width="100%" alt="22 Enemy Defeat Result"/>
+<strong>22. Enemy Defeat Result</strong>
+</td>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/23_complete_gameplay.png" width="100%" alt="23 Complete Gameplay"/>
+<strong>23. Complete Gameplay</strong>
+</td>
+<td width="25%" align="center">
+<img src="docs/Bloodmoon-report-screenshots/24_final_gameplay.png" width="100%" alt="24 Final Gameplay"/>
+<strong>24. Final Gameplay</strong>
+</td>
+</tr>
+</table>
 
 ---
 
