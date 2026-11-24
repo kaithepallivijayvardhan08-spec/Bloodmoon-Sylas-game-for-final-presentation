@@ -522,16 +522,16 @@ I prefer being honest about what a project can currently do and what still needs
 - 📑 [Mini Project Report (PDF)](bloodmoon%20sylas%20mean%20stack%20game%20final%20report.pdf)
 
 ---
-## 📊 14.PROJECT PRESENTATION
+## 📊 PROJECT PRESENTATION
 
 <p align="center">
-  <a href="docs/Bloodmoon-Sylas-A-Browser-Based-3D-Action-Game.pptx">
-    <img src="https://img.shields.io/badge/DOWNLOAD-POWERPOINT%20PRESENTATION-8B0000?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Download PPT"/>
+  <a href="./docs/bloodmoon%20sylas%20a%20broswer%20based%203d%20action%20game.pptx">
+    <img src="https://img.shields.io/badge/POWERPOINT-VIEW%20PRESENTATION-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="View PowerPoint Presentation"/>
   </a>
 </p>
 
 <p align="center">
-  **Bloodmoon: Sylas – A Browser-Based 3D Action Game**
+  **Bloodmoon Sylas – A Browser Based 3D Action Game**
 </p>
 
 ## 🌙 15. A FINAL NOTE
