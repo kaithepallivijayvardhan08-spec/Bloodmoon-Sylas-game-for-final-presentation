@@ -1,0 +1,188 @@
+{
+  "users": {
+    "guest_1791185724428_6321": {
+      "id": "guest_1791185724428_6321",
+      "username": "GuestOperative_6321",
+      "email": "guest_6321@arena.local",
+      "passwordHash": "",
+      "callsign": "GUEST-6321",
+      "createdAt": 1791185724428,
+      "lastLogin": 1791185724428,
+      "stats": {
+        "totalMatches": 0,
+        "totalKills": 0,
+        "highestWave": 1,
+        "highestScore": 0,
+        "totalPlayTime": 0,
+        "victories": 0
+      },
+      "unlockedCharacters": [
+        "commando",
+        "ninja",
+        "juggernaut",
+        "sorceress"
+      ],
+      "credits": 100
+    },
+    "guest_1791992787053_2950": {
+      "id": "guest_1791992787053_2950",
+      "username": "GuestOperative_2950",
+      "email": "guest_2950@arena.local",
+      "passwordHash": "",
+      "callsign": "GUEST-2950",
+      "createdAt": 1791992787053,
+      "lastLogin": 1791992787053,
+      "stats": {
+        "totalMatches": 0,
+        "totalKills": 0,
+        "highestWave": 1,
+        "highestScore": 0,
+        "totalPlayTime": 0,
+        "victories": 0
+      },
+      "unlockedCharacters": [
+        "commando",
+        "ninja",
+        "juggernaut",
+        "sorceress"
+      ],
+      "credits": 100
+    },
+    "guest_1793532314479_1259": {
+      "id": "guest_1793532314479_1259",
+      "username": "GuestOperative_1259",
+      "email": "guest_1259@arena.local",
+      "passwordHash": "",
+      "callsign": "GUEST-1259",
+      "createdAt": 1793532314479,
+      "lastLogin": 1793532314479,
+      "stats": {
+        "totalMatches": 0,
+        "totalKills": 0,
+        "highestWave": 1,
+        "highestScore": 0,
+        "totalPlayTime": 0,
+        "victories": 0
+      },
+      "unlockedCharacters": [
+        "commando",
+        "ninja",
+        "juggernaut",
+        "sorceress"
+      ],
+      "credits": 100
+    },
+    "guest_1793554682975_4781": {
+      "id": "guest_1793554682975_4781",
+      "username": "GuestOperative_4781",
+      "email": "guest_4781@arena.local",
+      "passwordHash": "",
+      "callsign": "GUEST-4781",
+      "createdAt": 1793554682975,
+      "lastLogin": 1793554682975,
+      "stats": {
+        "totalMatches": 0,
+        "totalKills": 0,
+        "highestWave": 1,
+        "highestScore": 0,
+        "totalPlayTime": 0,
+        "victories": 0
+      },
+      "unlockedCharacters": [
+        "commando",
+        "ninja",
+        "juggernaut",
+        "sorceress"
+      ],
+      "credits": 100
+    },
+    "usr_1793605940205_ba7pr": {
+      "id": "usr_1793605940205_ba7pr",
+      "username": "vijayrocks",
+      "email": "kaithepallivijayvardhan08@gmail.com",
+      "passwordHash": "scrypt$b8605ea6ac544fce3e16c8c314950f99$9d2a93e4a3bcc394baa04d1104d5b238ecd9d8ddac58d3dbc1112fb70b1f48ed08e4e6e72ed31e554ee4a53ecb66ee7ea2cbbf1461b04850ae8afbd0879b6829",
+      "callsign": "vijayrocks",
+      "createdAt": 1793605940341,
+      "lastLogin": 1793605940341,
+      "stats": {
+        "totalMatches": 0,
+        "totalKills": 0,
+        "highestWave": 1,
+        "highestScore": 0,
+        "totalPlayTime": 0,
+        "victories": 0
+      },
+      "unlockedCharacters": [
+        "commando",
+        "ninja",
+        "juggernaut",
+        "sorceress"
+      ],
+      "credits": 250
+    }
+  },
+  "players": {},
+  "leaderboard": [
+    {
+      "id": "titan-1",
+      "name": "CyberViper",
+      "title": "Apex Survivor",
+      "score": 48500,
+      "kills": 642,
+      "wave": 15,
+      "character": "Storm Commando",
+      "avatar": "⚡"
+    },
+    {
+      "id": "titan-2",
+      "name": "ShadowGhost",
+      "title": "Blade Master",
+      "score": 39200,
+      "kills": 518,
+      "wave": 12,
+      "character": "Cyber Ninja",
+      "avatar": "🗡️"
+    },
+    {
+      "id": "titan-3",
+      "name": "IronTitan",
+      "title": "Fortress",
+      "score": 34100,
+      "kills": 470,
+      "wave": 11,
+      "character": "Heavy Juggernaut",
+      "avatar": "🛡️"
+    },
+    {
+      "id": "titan-4",
+      "name": "NovaQueen",
+      "title": "Vortex Witch",
+      "score": 29800,
+      "kills": 412,
+      "wave": 9,
+      "character": "Void Sorceress",
+      "avatar": "🔮"
+    },
+    {
+      "id": "titan-5",
+      "name": "NeonRacer",
+      "title": "Overdrive",
+      "score": 24500,
+      "kills": 350,
+      "wave": 8,
+      "character": "Storm Commando",
+      "avatar": "🏎️"
+    },
+    {
+      "id": "titan-6",
+      "name": "GlitchHunter",
+      "title": "Executioner",
+      "score": 19400,
+      "kills": 280,
+      "wave": 7,
+      "character": "Cyber Ninja",
+      "avatar": "💀"
+    }
+  ],
+  "news": []
+}
