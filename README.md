@@ -525,15 +525,14 @@ I prefer being honest about what a project can currently do and what still needs
 ## 📊 PROJECT PRESENTATION
 
 <p align="center">
-  <a href="./docs/bloodmoon%20sylas%20a%20broswer%20based%203d%20action%20game.pptx">
-    <img src="https://img.shields.io/badge/POWERPOINT-VIEW%20PRESENTATION-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="View PowerPoint Presentation"/>
+  <a href="https://raw.githubusercontent.com/kaithepallivijayvardhan08-spec/Bloodmoon-Sylas-game-for-final-presentation/main/docs/bloodmoon%20sylas%20%20a%20broswer%20based%203d%20action%20game.pptx">
+    <img src="https://img.shields.io/badge/DOWNLOAD-POWERPOINT%20PRESENTATION-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Download PowerPoint"/>
   </a>
 </p>
 
 <p align="center">
   **Bloodmoon Sylas – A Browser Based 3D Action Game**
 </p>
-
 ## 🌙 15. A FINAL NOTE
 
 Bloodmoon: Sylas is more than a semester project for me. It represents the process of taking an idea, exploring unfamiliar technologies and gradually turning it into something that works.
