@@ -519,9 +519,6 @@ I prefer being honest about what a project can currently do and what still needs
 
 ## 📚 13. PROJECT DOCUMENTATION
 
-- 📖 [Student Guide](docs/STUDENT_GUIDE.md)
-- 🛠️ [Development Roadmap](docs/DEVELOPMENT_ROADMAP.md)
-- 📄 [Project Report (DOCX)](docs/Project_Report.docx)
 - 📑 [Mini Project Report (PDF)](bloodmoon%20sylas%20mean%20stack%20game%20final%20report.pdf)
 
 ---
