@@ -522,8 +522,19 @@ I prefer being honest about what a project can currently do and what still needs
 - 📑 [Mini Project Report (PDF)](bloodmoon%20sylas%20mean%20stack%20game%20final%20report.pdf)
 
 ---
+## 📊 14.PROJECT PRESENTATION
 
-## 🌙 14. A FINAL NOTE
+<p align="center">
+  <a href="docs/Bloodmoon-Sylas-A-Browser-Based-3D-Action-Game.pptx">
+    <img src="https://img.shields.io/badge/DOWNLOAD-POWERPOINT%20PRESENTATION-8B0000?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Download PPT"/>
+  </a>
+</p>
+
+<p align="center">
+  **Bloodmoon: Sylas – A Browser-Based 3D Action Game**
+</p>
+
+## 🌙 15. A FINAL NOTE
 
 Bloodmoon: Sylas is more than a semester project for me. It represents the process of taking an idea, exploring unfamiliar technologies and gradually turning it into something that works.
 
